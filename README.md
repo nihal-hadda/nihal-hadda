@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023 (ou une autre année si tu veux être plus précise)<br>📚 I'm currently learning Java, HTML, CSS, JavaScript, Python, PHP, MVC, MVVM, PL/SQL, R, Datawarehouses, AI<br>🎯 Goals: Devenir experte en Business Intelligence et Big Data, optimiser la prise de décision avec l’IA et l'analyse de données<br>🎲 Fun fact: Je passe plus de temps à déboguer qu'à coder, mais j'adore ça ! 😆</p>
+<p align="left">✨ Creating bugs since 2023 <br>📚 I'm currently learning Java, HTML, CSS, JavaScript, Python, PHP, MVC, MVVM, PL/SQL, R, Datawarehouses, AI<br>🎯 Goals: Devenir experte en Business Intelligence et Big Data, optimiser la prise de décision avec l’IA et l'analyse de données<br>🎲 Fun fact: Je passe plus de temps à déboguer qu'à coder, mais j'adore ça ! 😆</p>
 
 ###
 
